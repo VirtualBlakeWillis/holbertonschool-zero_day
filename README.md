@@ -1,2 +1,1 @@
-Hello World!
-my first readme
+This repository contains projects 00-04 from week 0 at Holberton.
